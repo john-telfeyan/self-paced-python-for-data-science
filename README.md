@@ -46,13 +46,13 @@ Then please use feature-branch workflow like so; First:
 git checkout -b <feature-name>-<your-name>
 ```
 
-Add your work...
+Add your work and use a descriptive commit message like...
 
- then to add the new feature:
+ then to push the new feature:
 ```bash
 git push --set-upstream origin <feature-name>-<your-name>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NzQ3Njc1LC0xODE3MzYyMzY1LC00MD
-gwNDI1NTldfQ==
+eyJoaXN0b3J5IjpbLTE3MTQ4ODAwMzYsLTE4MTczNjIzNjUsLT
+QwODA0MjU1OV19
 -->
