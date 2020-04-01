@@ -31,11 +31,11 @@
 ***Use feature-branch workflow***
 ```mermaid
 graph LR
-A(Round Rect) --> D(Round Rect)
-A --> C(Round Rect)
-B --> D(Round Rect)
+A(Original Master) --> D(New Master)
+A -- git checkout -b 'lastname-addition sumary'--> C(Round Rect)
+
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYwMDMyMjQsLTQwODA0MjU1OV19
+eyJoaXN0b3J5IjpbMjA4MjU1NDQ2LC00MDgwNDI1NTldfQ==
 -->
