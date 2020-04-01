@@ -52,13 +52,13 @@ git add learn_python/for_loops.ipnb
 git add learn_python/media_files/.
 git commit -m "Added the 'FizzBuzz' challenge to for_loops.ipnb"
 ```
- ...then to push the new feature:
+ ...then to push the new feature and I'll proof it before merging it:
 ```bash
 git push --set-upstream origin <feature-name>-<your-name>
 ```
-email 
+
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY4NjA0MzMzLC0xODE3MzYyMzY1LC00MD
-gwNDI1NTldfQ==
+eyJoaXN0b3J5IjpbLTE2Nzg3NDU3MzQsLTE4MTczNjIzNjUsLT
+QwODA0MjU1OV19
 -->
