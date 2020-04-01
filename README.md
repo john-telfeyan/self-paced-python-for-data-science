@@ -32,9 +32,10 @@
 ```mermaid
 graph LR
 A(Original Master) --> D(New Master)
-A -- git checkout -b 'lastname-addition sumary' --> C(Feature Branch)
+A -- branch --> C(Feature Branch)
 
-C -- git commit -m  --> D
+C -- commit  --> E(Feature Branch)
+E -- review --> D
 ```
 
 Clone the Repo:
@@ -59,6 +60,6 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Nzg3NDU3MzQsLTE4MTczNjIzNjUsLT
+eyJoaXN0b3J5IjpbLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLT
 QwODA0MjU1OV19
 -->
