@@ -46,13 +46,16 @@ Then please use feature-branch workflow like so; First:
 git checkout -b <feature-name>-<your-name>
 ```
 
-Add your work and use a descriptive commit message like...
+Add only the required files and use a descriptive commit message like...
+```bash
+git add learn_python/for_loops.ipnb
 
+```
  then to push the new feature:
 ```bash
 git push --set-upstream origin <feature-name>-<your-name>
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTQ4ODAwMzYsLTE4MTczNjIzNjUsLT
+eyJoaXN0b3J5IjpbLTE5NTQ5MDU2NTYsLTE4MTczNjIzNjUsLT
 QwODA0MjU1OV19
 -->
