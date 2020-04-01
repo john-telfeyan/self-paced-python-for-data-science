@@ -31,11 +31,11 @@
 ***Use feature-branch workflow***
 ```mermaid
 graph LR
-A[Original Master] -- Link text --> B((Circle))
+A(Round Rect) --> D(Round Rect)
 A --> C(Round Rect)
-B --> D{Rhombus}
+B --> D(Round Rect)
 C --> D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTM3OTE3LC00MDgwNDI1NTldfQ==
+eyJoaXN0b3J5IjpbLTExNTYwMDMyMjQsLTQwODA0MjU1OV19
 -->
