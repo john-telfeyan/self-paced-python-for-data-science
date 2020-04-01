@@ -37,7 +37,18 @@ A -- git checkout -b 'lastname-addition sumary' --> C(Feature Branch)
 C -- git commit -m  --> D
 ```
 
+1. Clone the Repo:
+```bash
+git clone git@github.com:john-telfeyan/toolbox.git
+```
+Then please use feature-branch workflow like so; First:
 
+git checkout -b <feature-name>-<your-name>
+
+Add your work, then to add the new feature:
+
+git push --set-upstream origin <feature-name>-<your-name>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTczNjIzNjUsLTQwODA0MjU1OV19
+eyJoaXN0b3J5IjpbLTc2MzA5NjYyNywtMTgxNzM2MjM2NSwtND
+A4MDQyNTU5XX0=
 -->
