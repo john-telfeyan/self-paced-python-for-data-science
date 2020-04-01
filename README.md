@@ -28,7 +28,14 @@
   It's not intended to host course material; instead consider this repo like a "news feed" that aggregates learning streams from around the web. That will allow you to start here and branch out. For example, sites like Coursera have great courses on machine learning fundamentals and stats for  psychology and Khan Academy has better courses on basic probability but neither give you great reading material or larger assignments that you can really dig into. You'll find links to all of those sources here peppered with "reach" assignments for added challenge and my own study sheets for interview prep
 
 ## How to Contribute to this Repo:
-***Use Feature Branch
+***Use feature-branch workflow***
+```mermaid
+graph LR
+A[Original Master] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzgyNTUyMjcsLTQwODA0MjU1OV19
+eyJoaXN0b3J5IjpbLTUyNTM3OTE3LC00MDgwNDI1NTldfQ==
 -->
