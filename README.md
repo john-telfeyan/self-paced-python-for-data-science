@@ -39,16 +39,20 @@ C -- git commit -m  --> D
 
 1. Clone the Repo:
 ```bash
-git clone git@github.com:john-telfeyan/toolbox.git
+git clone git@github.com:john-telfeyan/self-paced-python-for-data-science.git
 ```
 Then please use feature-branch workflow like so; First:
-
+```bash
 git checkout -b <feature-name>-<your-name>
+```
 
-Add your work, then to add the new feature:
+Add your work...
 
+ then to add the new feature:
+```bash
 git push --set-upstream origin <feature-name>-<your-name>
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzA5NjYyNywtMTgxNzM2MjM2NSwtND
-A4MDQyNTU5XX0=
+eyJoaXN0b3J5IjpbMTQ0NzQ3Njc1LC0xODE3MzYyMzY1LC00MD
+gwNDI1NTldfQ==
 -->
