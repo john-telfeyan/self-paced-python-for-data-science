@@ -32,10 +32,12 @@
 ```mermaid
 graph LR
 A(Original Master) --> D(New Master)
-A -- git checkout -b 'lastname-addition sumary' --> C(featur branch)
+A -- git checkout -b 'lastname-addition sumary' --> C(Feature Branch)
 
-C -- git commit -m "feat(python)" asdf --> D
+C -- git commit -m  --> D
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY0OTgzOTcsLTQwODA0MjU1OV19
+eyJoaXN0b3J5IjpbLTE4MTczNjIzNjUsLTQwODA0MjU1OV19
 -->
