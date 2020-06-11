@@ -7,10 +7,10 @@
 ***This repo consolidates reading, videos, practices, exercises, and challenges from all over the web to present favorite learning material in a cumulative order that will prepare novice programmers or math students for Data Science projects.***  
 
 ## Get Started:
-**Key**:
- ![skip](/res_bin/media/skip.png) **skip it** - These sections are supplemental; check out the overview and if you're somewhat familiar with all the concepts feel free to skip. if you find yourself struggling later you can always come back!
+**Key**:   
+ ![skip](/res_bin/media/skip.png) **skip it** - These sections are supplemental; check out the overview and if you're somewhat familiar with all the concepts feel free to skip. if you find yourself struggling later you can always come back!  
 
-  ![skim](/res_bin/media/speed_read.png) **skim it**  - give it a once over to make sure you understand everything in the section
+  ![skim](/res_bin/media/speed_read.png) **skim it**  - give it a once over to make sure you understand everything in the section  
   ![study](/res_bin/media/study.png) **study** - Everything in this section is fundamental to understanding content in following sections
 
 1. [Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  ![skim](/res_bin/media/speed_read.png)
@@ -76,8 +76,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMjY3OTcwNywtMTgxMjg3ODI2NiwtMj
-AzMTI5Nzk0MCwtMjI5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2
-OTg3MDcsLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0Mj
-U1OV19
+eyJoaXN0b3J5IjpbMTc5NTE1NTI2NywxNjIyNjc5NzA3LC0xOD
+EyODc4MjY2LC0yMDMxMjk3OTQwLC0yMjkzNDkyMDgsLTE3NTMy
+MDk5NDMsMTk3NDY5ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2Mj
+M2NSwtNDA4MDQyNTU5XX0=
 -->
