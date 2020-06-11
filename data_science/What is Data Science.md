@@ -18,7 +18,7 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
 #### Key concepts: 
  - **Scale**: 
  - **Data Type**: 
- -  **Data Validation**: 
+ -  **Data Validation**:  automated orrules-based processes that identify, remove, or flag inaccurate or anomalous information, leaving behind a clean data se
 
 ### Data Analysis
 Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to visualize descriptive and inductive characteristics of your data and identify algorithms that accurately and reliably predict future data points.  
@@ -31,6 +31,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY5MzMyNTYsNjcxNTEzMDk1LDgwMz
-A5Njk3OSw4NDk4NjY4NTldfQ==
+eyJoaXN0b3J5IjpbMTMyOTc0MzU1NiwtMTAzNjkzMzI1Niw2Nz
+E1MTMwOTUsODAzMDk2OTc5LDg0OTg2Njg1OV19
 -->
