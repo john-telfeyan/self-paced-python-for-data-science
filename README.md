@@ -8,20 +8,14 @@
 
 ## Get Started:
  ** = coming soon
-1. What is Data Science: Brief Overview
-2. Statistics
-	3. Combinations and Permutations
-	4. Probability distributions**
-	5. Regression**
-	6. **
+1. [What is Data Science: Brief Overview](data_science/What%20is%20Data%20Science.md)
+2. Statistics: Combinations and Permutations
+3. Python: Basics
+4. Python Iterations
+5. Statistics: Probability distributions
+6. Python:  Functions 
 
-3. Python
-	1. Basics
-	2. Iteration
-	3. Functions**
-	4.  
-
-4. Machine Learning
+8. Machine Learning#
 	1. History and state-of the art
 	2. **
 
@@ -64,6 +58,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTMyMDk5NDMsMTk3NDY5ODcwNywtMT
-Y5MDc5ODcxMywtMTgxNzM2MjM2NSwtNDA4MDQyNTU5XX0=
+eyJoaXN0b3J5IjpbMTYxMDE2OTQ0NSwtMTc1MzIwOTk0MywxOT
+c0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgw
+NDI1NTldfQ==
 -->
