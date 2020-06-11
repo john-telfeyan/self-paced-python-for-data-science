@@ -17,7 +17,7 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
  
 #### Key concepts: 
  - **Scale**: 
- - **Data Type**: In computer science, an attribute of data which tells the compiler or interpreter how the programmer intends to use the data. 
+ - **Data Type**: In computer science, an attribute of firtua information which tells the compiler or interpreter how the programmer intends to use the data. 
  -  **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data se
 
 #### Read:
@@ -37,6 +37,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMTI3NzkzLC0xMDM2OTMzMjU2LDY3MT
+eyJoaXN0b3J5IjpbMTA0MDg1NzkwLC0xMDM2OTMzMjU2LDY3MT
 UxMzA5NSw4MDMwOTY5NzksODQ5ODY2ODU5XX0=
 -->
