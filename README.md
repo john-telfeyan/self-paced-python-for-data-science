@@ -7,7 +7,7 @@
 ***This repo consolidates reading, videos, practices, exercises, and challenges from all over the web to present favorite learning material in a cumulative order that will prepare novice programmers or math students for Data Science projects.***  
 
 ## Get Started:
- ** = coming soon
+
 1. [What is Data Science: Brief Overview](data_science/What%20is%20Data%20Science.md)
 2. [Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)
 3. [Statistics: Combinations and Permutations](learn_statistics/01-Permutations_&_Combinations.ipynb)
@@ -16,6 +16,7 @@
 6. Statistics: Probability distributions
 7. Python:  Functions 
 
+ ** = coming soon
 
 ## Who this Repository is for:
  If you were planning on learning python and data science on your own this repo is for you! It's intended to point you to an ordered, series of progressively more challenging curricula. After you complete a section, you'll see marked improvement and have the skills needed to solve progressively more challenging data and statistics problems.   It's not intended to be your only resource; you will need to supplement  your learning where you feel your skills are under developed.   
@@ -55,7 +56,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0ODEwNDIzOCwtMTc1MzIwOTk0MywxOT
-c0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgw
-NDI1NTldfQ==
+eyJoaXN0b3J5IjpbMzc0MDk0NDIsLTE3NTMyMDk5NDMsMTk3ND
+Y5ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2MjM2NSwtNDA4MDQy
+NTU5XX0=
 -->
