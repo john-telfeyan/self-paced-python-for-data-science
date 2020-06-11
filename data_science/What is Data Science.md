@@ -16,8 +16,16 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
  4.  **Evaluate** the validity of your data sources
  
 #### Key concepts: 
- **Scale**:   An intrinsic, meta-data characteristic of each piece of quantitative  data that tells you about the precision at which your data point was collected. Geographic data could be collected at the neighborhood or 
- **Data Type**: In computer science, an attribute of virtual information which tells the compiler or database how the programmer intends to use the data.   
+ **Scale**:   An intrinsic, meta-data characteristic of each piece of quantitative  data that tells you about the precision at which your data point was collected. Geographic data could be collected at the neighborhood or country-level scale.
+ 
+ **Data Type**: In computer science, an attribute of virtual information which tells the compiler or database how the programmer intends to use the data.   All data falls into four categories:
+ 1.  **Nominal Scale**: All the data points which are qualitative in nature falls in this category. These are also referred to as categorical variables. Ex: Marital Status (Single, married, etc.). No arithmetic operation (addition, subtraction, multiplication or division) can be performed on such variables.
+2.  **Ordinal Scale**: All the data points from the ordered set falls in this category. Ex: Ratings on a 1–5 scale (5 being highest and 1 being lowest). Here the order of the set is fixed, but no arithmetic operation can be performed such as we know, rating 4 is better than 2, but two 2 ratings cannot be equaled to rating 4.
+3.  **Interval Scale**: All the data points which have been taken from some fixed interval set. Ex: Temperature (in centigrade), IQ level. In such variables, addition or subtraction can be performed but division doesn’t make sense. As you can say Mumbai has 10 centigrade more than Bangalore, but you saying that Mumbai is twice hotter than Bangalore is not right, thus ratios don’t make sense here.
+4.  **Ratio Scale**: All the data points which are quantitative in nature falls in this category. Ex: Sales of a product, the salary of an employee, etc. Here all the arithmetic operations can be performed and comparison can be made as such that Ram earns twice of what Shyam earns, thus ratios make sense.
+
+Thus, by looking at the data, one can infer what kind of data is available like nominal, ordinal, etc. which eventually helps a data analyst/scientist, while building any analytics model for understanding different variables, doing exploratory data analysis, doing data imputation, and performing one-hot encoding.  
+
  **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data.   Three strategies include:
 	- Reject Known Bad Data (Okay)
 	- Sanitize Bad Data (Better)
@@ -43,7 +51,7 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyODMxNTE1NCwtMTcyODk0NjY0OSwxMz
+eyJoaXN0b3J5IjpbMTkwMzY5Nzc0MywtMTcyODk0NjY0OSwxMz
 U0Nzk4MDIzLC0xMDM2OTMzMjU2LDY3MTUxMzA5NSw4MDMwOTY5
 NzksODQ5ODY2ODU5XX0=
 -->
