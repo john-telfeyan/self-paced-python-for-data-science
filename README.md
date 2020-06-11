@@ -10,7 +10,7 @@
  ** = coming soon
 1. [What is Data Science: Brief Overview](data_science/What%20is%20Data%20Science.md)
 2. [Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)
-3. Statistics: Combinations and Permutations
+3. [Statistics: Combinations and Permutations](learn_statistics/01-Permutations_&_Combinations.ipynb)
 4. Python: Basics
 5. Python Iterations
 6. Statistics: Probability distributions
@@ -55,7 +55,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA0ODc1MTAzLC0xNzUzMjA5OTQzLDE5Nz
-Q2OTg3MDcsLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0
-MjU1OV19
+eyJoaXN0b3J5IjpbLTI0ODEwNDIzOCwtMTc1MzIwOTk0MywxOT
+c0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgw
+NDI1NTldfQ==
 -->
