@@ -18,10 +18,10 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
 #### Key concepts: 
  **Scale**:   
  **Data Type**: In computer science, an attribute of virtual information which tells the compiler or database how the programmer intends to use the data.   
- **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data.
-	 -   Accept Only Known Valid Data
-	-   Reject Known Bad Data
-	- -   Sanitize Bad Data
+ **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data.   Three strategies include:
+	- Reject Known Bad Data (Okay)
+	- Sanitize Bad Data (Better)
+	- Accept Only Known Valid Data (Best)
 	
 #### Read:
 * **Short**: [https://www.dnb.com/resources/what-is-data-validation.html](https://www.dnb.com/resources/what-is-data-validation.html)
@@ -40,6 +40,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjMwNjA0MiwtMTAzNjkzMzI1Niw2Nz
-E1MTMwOTUsODAzMDk2OTc5LDg0OTg2Njg1OV19
+eyJoaXN0b3J5IjpbLTExMzI1Mzc0MzUsLTEwMzY5MzMyNTYsNj
+cxNTEzMDk1LDgwMzA5Njk3OSw4NDk4NjY4NTldfQ==
 -->
