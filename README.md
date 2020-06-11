@@ -51,14 +51,7 @@
 
 ## How to Contribute to this Repo:
 ***Use feature-branch workflow***
-```mermaid
-graph LR
-A(Original Master) --> D(New Master)
-A -- branch --> C(Feature Branch)
-
-C -- commit  --> E(Feature Branch)
-E -- review --> D
-``` 
+ ![enter image description here](https://github.com/john-telfeyan/multi_media/raw/master/feature_branch_diagram.png)
 
 Clone the Repo:
 ```bash
@@ -81,8 +74,9 @@ git push --set-upstream origin <feature-name>-<your-name>
 ```
 
 Thanks for reading and contributing!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTgxMjM0MTYsNDEyNjk3MzYxLDE2Mj
+eyJoaXN0b3J5IjpbLTEwMTE5MjEyMzAsNDEyNjk3MzYxLDE2Mj
 I2Nzk3MDcsLTE4MTI4NzgyNjYsLTIwMzEyOTc5NDAsLTIyOTM0
 OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4NzA3LC0xNjkwNzk4Nz
 EzLC0xODE3MzYyMzY1LC00MDgwNDI1NTldfQ==
