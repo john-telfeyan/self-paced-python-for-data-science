@@ -30,9 +30,11 @@
 	* fundamental syntax for folks who've never programmed before
 5. [Python: Iteration](learn_python/02_Iteration/) ![study](/res_bin/media/study.png) 
 	* the bread and butter of python and what makes programming powerful
-	* spend as much time a
-6. Statistics: Probability distributions
-7. Python:  Functions 
+	* spend as much time as you need on this section
+6. Statistics: Probability distributions (under construction)
+	* 
+7. [Python:  Functions](learn_python/03_Functions/) ![study](/res_bin/media/study.png) 
+	8. 
 
  ** = coming soon
 
@@ -74,8 +76,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODE3NDUzNSwtMTgxMjg3ODI2NiwtMj
-AzMTI5Nzk0MCwtMjI5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2
-OTg3MDcsLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0Mj
-U1OV19
+eyJoaXN0b3J5IjpbOTYyOTE3NjYsLTE4MTI4NzgyNjYsLTIwMz
+EyOTc5NDAsLTIyOTM0OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4
+NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgwNDI1NT
+ldfQ==
 -->
