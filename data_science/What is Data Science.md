@@ -30,7 +30,9 @@ Thus, by looking at the data, one can infer what kind of data is available like 
 	- Reject Known Bad Data (Okay)
 	- Sanitize Bad Data (Better)
 	- Accept Only Known Valid Data (Best)
-	
+#### Watch:
+Scale in Geographic Analysis by   GeoMindz.com : [https://www.youtube.com/watch?v=z1JHqVhsCB0](https://www.youtube.com/watch?v=z1JHqVhsCB0)
+
 #### Read:
 * **Short**: Beginners guide: Data types and their measurement scale [https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d](https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d)
 * **Short**: [https://www.dnb.com/resources/what-is-data-validation.html](https://www.dnb.com/resources/what-is-data-validation.html)
@@ -54,7 +56,7 @@ Designing Data Products :[https://towardsdatascience.com/designing-data-products
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzY0MTIxNCwtMTcyODk0NjY0OSwxMz
-U0Nzk4MDIzLC0xMDM2OTMzMjU2LDY3MTUxMzA5NSw4MDMwOTY5
-NzksODQ5ODY2ODU5XX0=
+eyJoaXN0b3J5IjpbOTU0NTQ0Nzg5LC0xNzI4OTQ2NjQ5LDEzNT
+Q3OTgwMjMsLTEwMzY5MzMyNTYsNjcxNTEzMDk1LDgwMzA5Njk3
+OSw4NDk4NjY4NTldfQ==
 -->
