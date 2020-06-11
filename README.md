@@ -8,10 +8,12 @@
 
 ## Get Started:
 **Key**:
-* **skip it** ![skip](/res_bin/media/skip.png) - These sections are suplimental; check out the overview and if you're somewhat familiar with the key concepts
-* **skim it** ![skip](/res_bin/media/speed_read.png)
-* **study** ![skip](/res_bin/media/study.png)
-1.[Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim) 
+* ![skip](/res_bin/media/skip.png) **skip it** - These sections are suplimental; check out the overview and if you're somewhat familiar with all the concepts feel free to skip. if you find yourself strugling later you can always come back!
+
+*  ![skip](/res_bin/media/speed_read.png) **skim it** 
+*  ![skip](/res_bin/media/study.png) **study**
+
+1. [Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim) 
  * Impact of correct and incorrect stats
  * Key concepts
  * History   
@@ -63,7 +65,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDEwMjQ4MCwtMjAzMTI5Nzk0MCwtMj
-I5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2OTg3MDcsLTE2OTA3
-OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0MjU1OV19
+eyJoaXN0b3J5IjpbLTE5ODc0ODk1OTEsLTIwMzEyOTc5NDAsLT
+IyOTM0OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4NzA3LC0xNjkw
+Nzk4NzEzLC0xODE3MzYyMzY1LC00MDgwNDI1NTldfQ==
 -->
