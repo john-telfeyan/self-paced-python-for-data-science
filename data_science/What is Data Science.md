@@ -18,7 +18,11 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
 #### Key concepts: 
  - **Scale**: 
  - **Data Type**: 
- -  **Data Validation**:  automated orrules-based processes that identify, remove, or flag inaccurate or anomalous information, leaving behind a clean data se
+ -  **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data se
+
+#### Read:
+* Methodology for data validation 1.0 - [https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf)
+* 
 
 ### Data Analysis
 Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to visualize descriptive and inductive characteristics of your data and identify algorithms that accurately and reliably predict future data points.  
@@ -31,6 +35,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTc0MzU1NiwtMTAzNjkzMzI1Niw2Nz
-E1MTMwOTUsODAzMDk2OTc5LDg0OTg2Njg1OV19
+eyJoaXN0b3J5IjpbLTEwODIzNTEwNjAsLTEwMzY5MzMyNTYsNj
+cxNTEzMDk1LDgwMzA5Njk3OSw4NDk4NjY4NTldfQ==
 -->
