@@ -16,7 +16,7 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
  4.  **Evaluate** the validity of your data sources
  
 #### Key concepts: 
- **Scale**:   An intrinsic, meta-data characteristic of each piece of quantitative  data that tells you about the precision at which your data point was collected. Geographic data could be collected at the neighborhood or country-level scale.
+ **Scale**:  The level of data aggregation.  An intrinsic, meta-data characteristic of each piece of quantitative  data that tells you about the precision at which your data point was collected. Geographic data could be collected at the neighborhood or country-level scale.
  
  **Data Type**: In computer science, an attribute of virtual information which tells the compiler or database how the programmer intends to use the data.   All data falls into four categories:
  1.  **Nominal Scale**: All the data points which are qualitative in nature falls in this category. These are also referred to as categorical variables. Ex: Marital Status (Single, married, etc.). No arithmetic operation (addition, subtraction, multiplication or division) can be performed on such variables.
@@ -31,7 +31,8 @@ Thus, by looking at the data, one can infer what kind of data is available like 
 	- Sanitize Bad Data (Better)
 	- Accept Only Known Valid Data (Best)
 #### Watch:
-Scale in Geographic Analysis by   GeoMindz.com : [https://www.youtube.com/watch?v=z1JHqVhsCB0](https://www.youtube.com/watch?v=z1JHqVhsCB0)
+Scale in Geographic Analysis by   GeoMindz : [https://www.youtube.com/watch?v=z1JHqVhsCB0](https://www.youtube.com/watch?v=z1JHqVhsCB0)
+
 
 #### Read:
 * **Short**: Beginners guide: Data types and their measurement scale [https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d](https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d)
@@ -56,7 +57,7 @@ Designing Data Products :[https://towardsdatascience.com/designing-data-products
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU0NTQ0Nzg5LC0xNzI4OTQ2NjQ5LDEzNT
-Q3OTgwMjMsLTEwMzY5MzMyNTYsNjcxNTEzMDk1LDgwMzA5Njk3
-OSw4NDk4NjY4NTldfQ==
+eyJoaXN0b3J5IjpbLTExMDA3OTA0NDIsLTE3Mjg5NDY2NDksMT
+M1NDc5ODAyMywtMTAzNjkzMzI1Niw2NzE1MTMwOTUsODAzMDk2
+OTc5LDg0OTg2Njg1OV19
 -->
