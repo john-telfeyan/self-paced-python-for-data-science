@@ -35,8 +35,7 @@ Thus, by looking at the data, one can infer what kind of data is available like 
  - Scale in Geographic Analysis by   GeoMindz :
    [https://www.youtube.com/watch?v=z1JHqVhsCB0](https://www.youtube.com/watch?v=z1JHqVhsCB0)
   
-  0 Scales of Measurement - Nominal, Ordinal, Interval, Ratio (Part 1) -
-   Introductory Statistics
+  - Scales of Measurement - Nominal, Ordinal, Interval, Ratio (Part 1) - Introductory Statistics
    [https://www.youtube.com/watch?v=KIBZUk39ncI](https://www.youtube.com/watch?v=KIBZUk39ncI)
 
 #### Read:
@@ -62,7 +61,7 @@ Designing Data Products :[https://towardsdatascience.com/designing-data-products
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODUwNTcyNSwtMTcyODk0NjY0OSwxMz
+eyJoaXN0b3J5IjpbLTgzNzQ2Mjg5MiwtMTcyODk0NjY0OSwxMz
 U0Nzk4MDIzLC0xMDM2OTMzMjU2LDY3MTUxMzA5NSw4MDMwOTY5
 NzksODQ5ODY2ODU5XX0=
 -->
