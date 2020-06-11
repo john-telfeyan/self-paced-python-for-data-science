@@ -23,11 +23,14 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
 ### Data Analysis
 Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to visualize descriptive and inductive characteristics of your data and identify algorithms that accurately and reliably predict future data points.  
 
-#### Watch: 
+#### Watch:
+* "What is Data Science Part 1" by by Acadgild [https://www.youtube.com/watch?v=c27EwKNIanQ](https://www.youtube.com/watch?v=c27EwKNIanQ)
+* "What is Data Science Part 1" by by Acadgild
 
 ###  Data Products
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAzMDk2OTc5LDg0OTg2Njg1OV19
+eyJoaXN0b3J5IjpbLTE1MzczNjU1NzQsODAzMDk2OTc5LDg0OT
+g2Njg1OV19
 -->
