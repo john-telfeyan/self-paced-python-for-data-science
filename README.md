@@ -32,9 +32,9 @@
 	* the bread and butter of python and what makes programming powerful
 	* spend as much time as you need on this section
 6. Statistics: Probability distributions (under construction)
-	* 
+	* Understand how to describe or simulate simple real world events with probability 
 7. [Python:  Functions](learn_python/03_Functions/) ![study](/res_bin/media/study.png) 
-	8. 
+	*
 
  ** = coming soon
 
@@ -76,8 +76,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyOTE3NjYsLTE4MTI4NzgyNjYsLTIwMz
-EyOTc5NDAsLTIyOTM0OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4
-NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgwNDI1NT
-ldfQ==
+eyJoaXN0b3J5IjpbLTE4ODc3OTgxMzMsLTE4MTI4NzgyNjYsLT
+IwMzEyOTc5NDAsLTIyOTM0OTIwOCwtMTc1MzIwOTk0MywxOTc0
+Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgwND
+I1NTldfQ==
 -->
