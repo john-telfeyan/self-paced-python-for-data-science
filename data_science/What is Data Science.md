@@ -24,7 +24,7 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
 	- Accept Only Known Valid Data (Best)
 	
 #### Read:
-* **Short**:Beginners guide: Data types and their measurement scale [https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d](https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d)
+* **Short**: Beginners guide: Data types and their measurement scale [https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d](https://towardsdatascience.com/beginners-guide-data-types-and-their-measurement-scale-194033b86b6d)
 * **Short**: [https://www.dnb.com/resources/what-is-data-validation.html](https://www.dnb.com/resources/what-is-data-validation.html)
 * **Short**: [https://en.wikipedia.org/wiki/Data_validation](https://en.wikipedia.org/wiki/Data_validation)
 * **Long**: Methodology for data validation 1.0 - [https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf)
@@ -43,7 +43,7 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY0NTY0OTMsMTM1NDc5ODAyMywtMT
+eyJoaXN0b3J5IjpbLTE3Mjg5NDY2NDksMTM1NDc5ODAyMywtMT
 AzNjkzMzI1Niw2NzE1MTMwOTUsODAzMDk2OTc5LDg0OTg2Njg1
 OV19
 -->
