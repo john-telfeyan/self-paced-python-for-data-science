@@ -26,7 +26,9 @@
 	* Calculate the probability of two independent events occurring
 	* Understand how order can effect probability 
 4. [Python: Basics](learn_python/01_Basic) ![skim](/res_bin/media/speed_read.png)
-5. Python Iterations
+	* Installing python locally vs. using an online compiler
+	* fundamental syntax for folks who've never programmed before
+5. Python: Iteration
 6. Statistics: Probability distributions
 7. Python:  Functions 
 
@@ -70,8 +72,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MTk1OTg5LC0xODEyODc4MjY2LC0yMD
-MxMjk3OTQwLC0yMjkzNDkyMDgsLTE3NTMyMDk5NDMsMTk3NDY5
-ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2MjM2NSwtNDA4MDQyNT
-U5XX0=
+eyJoaXN0b3J5IjpbMTM0MTIyNTY3MCwtMTgxMjg3ODI2NiwtMj
+AzMTI5Nzk0MCwtMjI5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2
+OTg3MDcsLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0Mj
+U1OV19
 -->
