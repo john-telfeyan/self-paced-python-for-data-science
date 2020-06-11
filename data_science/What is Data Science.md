@@ -4,7 +4,7 @@
 **Data science** is an inter-disciplinary field that uses scientific methods, computer science, algorithms, and systems to extract knowledge and insights from many structural and unstructured data at small and large scales. 
 
 ### The Data Science Process:
-![enter image description here](res_bin/media/data_science_process.png)
+![Figure 1: ETL --> Data Analysis --> Data Products](res_bin/media/data_science_process.png)
 
 
 ### ETL (Extract, Transform, Load)
@@ -31,6 +31,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcxNTEzMDk1LDgwMzA5Njk3OSw4NDk4Nj
-Y4NTldfQ==
+eyJoaXN0b3J5IjpbLTEwMzY5MzMyNTYsNjcxNTEzMDk1LDgwMz
+A5Njk3OSw4NDk4NjY4NTldfQ==
 -->
