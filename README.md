@@ -8,8 +8,9 @@
 
 ## Get Started:
 **Key**:
-* skip it ![skip](/res_bin/media/skip.png)
-* skim it 
+* **skip it** ![skip](/res_bin/media/skip.png) - These sections are suplimental; check out the overview and if you're somewhat familiar with the key concepts
+* **skim it** ![skip](/res_bin/media/speed_read.png)
+* **study** ![skip](/res_bin/media/study.png)
 1.[Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim) 
  * Impact of correct and incorrect stats
  * Key concepts
@@ -62,7 +63,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgxOTA4MzgsLTIwMzEyOTc5NDAsLT
-IyOTM0OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4NzA3LC0xNjkw
-Nzk4NzEzLC0xODE3MzYyMzY1LC00MDgwNDI1NTldfQ==
+eyJoaXN0b3J5IjpbMTA5MDEwMjQ4MCwtMjAzMTI5Nzk0MCwtMj
+I5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2OTg3MDcsLTE2OTA3
+OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0MjU1OV19
 -->
