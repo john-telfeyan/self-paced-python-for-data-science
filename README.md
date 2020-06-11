@@ -7,7 +7,7 @@
 ***This repo consolidates reading, videos, practices, exercises, and challenges from all over the web to present favorite learning material in a cumulative order that will prepare novice programmers or math students for Data Science projects.***  
 
 ## Get Started:
-
+*
 1.[Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim) 
  * Impact of correct and incorrect stats
  * Key concepts
@@ -60,7 +60,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEyOTc5NDAsLTIyOTM0OTIwOCwtMT
-c1MzIwOTk0MywxOTc0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3
-MzYyMzY1LC00MDgwNDI1NTldfQ==
+eyJoaXN0b3J5IjpbLTc3MDMyNTEzMiwtMjAzMTI5Nzk0MCwtMj
+I5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2OTg3MDcsLTE2OTA3
+OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0MjU1OV19
 -->
