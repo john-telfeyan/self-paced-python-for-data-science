@@ -8,6 +8,11 @@
 
 ## Get Started:
 **Key**:   
+
+|  |  |
+|--|--|
+|  |  |
+
  ![skip](/res_bin/media/skip.png) **skip it** - These sections are supplemental; check out the overview and if you're somewhat familiar with all the concepts feel free to skip. if you find yourself struggling later you can always come back!  
 
   ![skim](/res_bin/media/speed_read.png) **skim it**  - give it a once over to make sure you understand everything in the section  
@@ -76,8 +81,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTE1NTI2NywxNjIyNjc5NzA3LC0xOD
-EyODc4MjY2LC0yMDMxMjk3OTQwLC0yMjkzNDkyMDgsLTE3NTMy
-MDk5NDMsMTk3NDY5ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2Mj
-M2NSwtNDA4MDQyNTU5XX0=
+eyJoaXN0b3J5IjpbNDEyNjk3MzYxLDE2MjI2Nzk3MDcsLTE4MT
+I4NzgyNjYsLTIwMzEyOTc5NDAsLTIyOTM0OTIwOCwtMTc1MzIw
+OTk0MywxOTc0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMz
+Y1LC00MDgwNDI1NTldfQ==
 -->
