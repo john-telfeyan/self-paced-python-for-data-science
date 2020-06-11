@@ -16,10 +16,13 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
  4.  **Evaluate** the validity of your data sources
  
 #### Key concepts: 
- - **Scale**: 
- - **Data Type**: In computer science, an attribute of firtua information which tells the compiler or interpreter how the programmer intends to use the data. 
- -  **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data se
-
+ **Scale**:   
+ **Data Type**: In computer science, an attribute of virtual information which tells the compiler or database how the programmer intends to use the data.   
+ **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data.
+	 -   Accept Only Known Valid Data
+	-   Reject Known Bad Data
+	- -   Sanitize Bad Data
+	
 #### Read:
 * **Short**: [https://www.dnb.com/resources/what-is-data-validation.html](https://www.dnb.com/resources/what-is-data-validation.html)
 * **Short**: [https://en.wikipedia.org/wiki/Data_validation](https://en.wikipedia.org/wiki/Data_validation)
@@ -37,6 +40,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDg1NzkwLC0xMDM2OTMzMjU2LDY3MT
-UxMzA5NSw4MDMwOTY5NzksODQ5ODY2ODU5XX0=
+eyJoaXN0b3J5IjpbMjAyMjMwNjA0MiwtMTAzNjkzMzI1Niw2Nz
+E1MTMwOTUsODAzMDk2OTc5LDg0OTg2Njg1OV19
 -->
