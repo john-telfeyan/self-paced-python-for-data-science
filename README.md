@@ -21,8 +21,9 @@
 2. [What is Data Science? Brief Overview](data_science/What%20is%20Data%20Science.md) ![skip](/res_bin/media/skip.png)
 	* Extract, Transform, Load
 	* Scientific method
+	* Deliverables
+3. [Statistics: Combinations and Permutations](learn_statistics/01-Permutations_&_Combinations.ipynb) ![study](/res_bin/media/study.png) 
 	* 
-3. [Statistics: Combinations and Permutations](learn_statistics/01-Permutations_&_Combinations.ipynb)
 4. Python: Basics
 5. Python Iterations
 6. Statistics: Probability distributions
@@ -68,8 +69,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4OTc3MjE4LC0xODEyODc4MjY2LC0yMD
-MxMjk3OTQwLC0yMjkzNDkyMDgsLTE3NTMyMDk5NDMsMTk3NDY5
-ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2MjM2NSwtNDA4MDQyNT
-U5XX0=
+eyJoaXN0b3J5IjpbLTMzNzUyODczNCwtMTgxMjg3ODI2NiwtMj
+AzMTI5Nzk0MCwtMjI5MzQ5MjA4LC0xNzUzMjA5OTQzLDE5NzQ2
+OTg3MDcsLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0Mj
+U1OV19
 -->
