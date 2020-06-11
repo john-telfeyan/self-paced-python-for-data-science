@@ -16,7 +16,7 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
  4.  **Evaluate** the validity of your data sources
  
 #### Key concepts: 
- **Scale**:   An intri
+ **Scale**:   An intrinsic, meta-data characteristic of each piece of quantitative  data that tells you about the precision at which your data point was collected. Geographic data could be collected at the neighborhood or 
  **Data Type**: In computer science, an attribute of virtual information which tells the compiler or database how the programmer intends to use the data.   
  **Data Validation**:  automated and/or rules-based processes that correct, remove, or flag inaccurate or anomalous information, leaving behind a clean data.   Three strategies include:
 	- Reject Known Bad Data (Okay)
@@ -43,7 +43,7 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0ODQzMDQ3MCwtMTcyODk0NjY0OSwxMz
+eyJoaXN0b3J5IjpbLTMyODMxNTE1NCwtMTcyODk0NjY0OSwxMz
 U0Nzk4MDIzLC0xMDM2OTMzMjU2LDY3MTUxMzA5NSw4MDMwOTY5
 NzksODQ5ODY2ODU5XX0=
 -->
