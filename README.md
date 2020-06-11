@@ -13,7 +13,7 @@
 |--|--|
 |  |  **skip it** - These sections are supplemental; check out the overview and if you're somewhat familiar with all the concepts feel free to skip. if you find yourself struggling later you can always come back!   |
 |    ![skim](/res_bin/media/speed_read.png) | **skim it**  - give it a once over to make sure you understand everything in the section  |
-|  ![study](/res_bin/media/study.png) |--|
+|  ![study](/res_bin/media/study.png) |**study** - Everything in this section is fundamental to understanding content in following sections|
 
 
  
@@ -82,8 +82,8 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NTg0MzQ0LDQxMjY5NzM2MSwxNjIyNj
-c5NzA3LC0xODEyODc4MjY2LC0yMDMxMjk3OTQwLC0yMjkzNDky
-MDgsLTE3NTMyMDk5NDMsMTk3NDY5ODcwNywtMTY5MDc5ODcxMy
-wtMTgxNzM2MjM2NSwtNDA4MDQyNTU5XX0=
+eyJoaXN0b3J5IjpbLTIxNDIxNzAzMDgsNDEyNjk3MzYxLDE2Mj
+I2Nzk3MDcsLTE4MTI4NzgyNjYsLTIwMzEyOTc5NDAsLTIyOTM0
+OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4NzA3LC0xNjkwNzk4Nz
+EzLC0xODE3MzYyMzY1LC00MDgwNDI1NTldfQ==
 -->
