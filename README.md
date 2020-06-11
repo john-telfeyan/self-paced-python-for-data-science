@@ -9,15 +9,12 @@
 ## Get Started:
  ** = coming soon
 1. [What is Data Science: Brief Overview](data_science/What%20is%20Data%20Science.md)
-2. Statistics: Combinations and Permutations
-3. Python: Basics
-4. Python Iterations
-5. Statistics: Probability distributions
-6. Python:  Functions 
-
-8. Machine Learning#
-	1. History and state-of the art
-	2. **
+2. [Statistics: Introduction] 
+3. [Statistics: Combinations and Permutations](
+4. Python: Basics
+5. Python Iterations
+6. Statistics: Probability distributions
+7. Python:  Functions 
 
 
 ## Who this Repository is for:
@@ -58,7 +55,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDE2OTQ0NSwtMTc1MzIwOTk0MywxOT
-c0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgw
-NDI1NTldfQ==
+eyJoaXN0b3J5IjpbMTYwNjUxODEyLC0xNzUzMjA5OTQzLDE5Nz
+Q2OTg3MDcsLTE2OTA3OTg3MTMsLTE4MTczNjIzNjUsLTQwODA0
+MjU1OV19
 -->
