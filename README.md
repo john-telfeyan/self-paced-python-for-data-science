@@ -8,7 +8,7 @@
 
 ## Get Started:
 
-1.[Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim
+1.[Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim) 
  *
 
 
@@ -59,7 +59,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc5NzMzNTksLTE3NTMyMDk5NDMsMT
-k3NDY5ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2MjM2NSwtNDA4
-MDQyNTU5XX0=
+eyJoaXN0b3J5IjpbLTIyOTM0OTIwOCwtMTc1MzIwOTk0MywxOT
+c0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgw
+NDI1NTldfQ==
 -->
