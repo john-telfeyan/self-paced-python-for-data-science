@@ -48,10 +48,13 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 * "[What is Data Science Part 2](https://www.youtube.com/watch?v=y4ZLfS-Dt9g)" by by Acadgild 
 
 ###  Data Products
+#### Read:
+Designing Data Products :[https://towardsdatascience.com/designing-data-products-b6b93edf3d23](https://towardsdatascience.com/designing-data-products-b6b93edf3d23)
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMzY5Nzc0MywtMTcyODk0NjY0OSwxMz
+eyJoaXN0b3J5IjpbMTQ3MzY0MTIxNCwtMTcyODk0NjY0OSwxMz
 U0Nzk4MDIzLC0xMDM2OTMzMjU2LDY3MTUxMzA5NSw4MDMwOTY5
 NzksODQ5ODY2ODU5XX0=
 -->
