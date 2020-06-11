@@ -22,8 +22,9 @@ Data rarely starts out in the format, standard, or schema that we need it in.  T
 
 #### Read:
 * **Short**: [https://www.dnb.com/resources/what-is-data-validation.html](https://www.dnb.com/resources/what-is-data-validation.html)
-* Methodology for data validation 1.0 - [https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf)
-* 
+* **Short**: [https://en.wikipedia.org/wiki/Data_validation](https://en.wikipedia.org/wiki/Data_validation)
+* **Long**: Methodology for data validation 1.0 - [https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf](https://ec.europa.eu/eurostat/cros/system/files/methodology_for_data_validation_v1.0_rev-2016-06_final.pdf)
+
 
 ### Data Analysis
 Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) to visualize descriptive and inductive characteristics of your data and identify algorithms that accurately and reliably predict future data points.  
@@ -36,6 +37,6 @@ Next you'll use the [scientific method](https://en.wikipedia.org/wiki/Scientific
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc0MzU1MzksLTEwMzY5MzMyNTYsNj
-cxNTEzMDk1LDgwMzA5Njk3OSw4NDk4NjY4NTldfQ==
+eyJoaXN0b3J5IjpbMTU0NTA5MTM5NiwtMTAzNjkzMzI1Niw2Nz
+E1MTMwOTUsODAzMDk2OTc5LDg0OTg2Njg1OV19
 -->
