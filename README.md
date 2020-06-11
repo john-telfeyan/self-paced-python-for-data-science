@@ -8,8 +8,11 @@
 
 ## Get Started:
 
-1. [What is Data Science? Brief Overview](data_science/What%20is%20Data%20Science.md)
-2. [Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)
+1.[Statistics: Introduction](learn_statistics/00%20-%20Probability%20Outline%20&%20Introduction.ipynb)  (skip or skim
+ *
+
+
+2. [What is Data Science? Brief Overview](data_science/What%20is%20Data%20Science.md)
 3. [Statistics: Combinations and Permutations](learn_statistics/01-Permutations_&_Combinations.ipynb)
 4. Python: Basics
 5. Python Iterations
@@ -56,7 +59,7 @@ git push --set-upstream origin <feature-name>-<your-name>
 
 Thanks for reading and contributing!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjgzMjM1OSwtMTc1MzIwOTk0MywxOT
-c0Njk4NzA3LC0xNjkwNzk4NzEzLC0xODE3MzYyMzY1LC00MDgw
-NDI1NTldfQ==
+eyJoaXN0b3J5IjpbLTE4MTc5NzMzNTksLTE3NTMyMDk5NDMsMT
+k3NDY5ODcwNywtMTY5MDc5ODcxMywtMTgxNzM2MjM2NSwtNDA4
+MDQyNTU5XX0=
 -->
