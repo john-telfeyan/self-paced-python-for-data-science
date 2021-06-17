@@ -4,7 +4,7 @@
 **Data science** is an inter-disciplinary field that uses scientific methods, computer science, algorithms, and systems to extract knowledge and insights from many structural and unstructured data at small and large scales. 
 
 ### The Data Science Process:
-![Figure 1: ETL --> Data Analysis --> Data Products](res_bin/media/data_science_process.png)
+![Figure 1: ETL --> Data Analysis --> Data Products](../res_bin/media/data_science_process.png)
 
 
 ### ETL (Extract, Transform, Load)
