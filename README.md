@@ -37,10 +37,11 @@
 5. [Python: Iteration](learn_python/02_Iteration/) ![study](/res_bin/media/study.png) 
 	* the bread and butter of python and what makes programming powerful
 	* spend as much time as you need on this section
-6. Statistics: Probability distributions (under construction)
+6. [Statistics: Probability distributions](learn_statistics/02%20-%20Choosing%20Probability%20Distributions%20.ipynb)
 	* Understand how to describe or simulate simple real world events with probability 
 7. [Python:  Functions](learn_python/03_Functions/) ![study](/res_bin/media/study.png) 
 	*
+
 
  ** = coming soon
 
