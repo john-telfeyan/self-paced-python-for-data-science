@@ -1,3 +1,4 @@
+
 # Self paced Python for Data Science
 
 ### Synopsis: 
@@ -30,7 +31,7 @@
 	* Deliverables
 3. [Statistics: Combinations and Permutations](learn_statistics/01-Permutations_&_Combinations.ipynb) ![study](/res_bin/media/study.png) 
 	* Calculate the probability of two independent events occurring
-	* Understand how order can effect probability 
+	* Understand how order can affect probability 
 4. [Python: Basics](learn_python/01_Basics/01_Basics_Lesson.ipynb) ![skim](/res_bin/media/speed_read.png)
 	* Installing python locally vs. using an online compiler
 	* fundamental syntax for folks who've never programmed before
@@ -38,15 +39,21 @@
 	* the bread and butter of python and what makes programming powerful
 	* spend as much time as you need on this section
 6. [Statistics: Probability distributions](learn_statistics/02%20-%20Choosing%20Probability%20Distributions%20.ipynb)
-	* Understand how to describe or simulate simple real world events with probability 
-7. [Python:  Functions](learn_python/03_Functions/) ![study](/res_bin/media/study.png) 
-	*
+	* Understand how to describe or simulate simple real-world events with probability 
+7. [Python:  Functions](learn_python/03_Functions/03_Functions_Lesson.ipynb) ![study](/res_bin/media/study.png) 
+	* Build modular functions and a small functioning game program  
+8. [Statistics: Models & Algorithms](learn_statistics/03%20Choosing%20the%20Right%20Model%20%26%20Algorithm.ipynb) ![study](/res_bin/media/study.png) 
+	* Learn crucial statistical models and when to apply them
+9. [Python: Classes & Pandas](learn_python/04_Classes/04_Classes_Lesson.ipynb) ![study](/res_bin/media/study.png)  
+	* Object oriented programing: building modular classes  
+	
+10. [Next steps: Continue Learning]( data_science/Continue_Learning.ipynb)
+	* Best courses to sharpen Data science skills and learn advanced ML
+	
 
-
- ** = coming soon
 
 ## Who this Repository is for:
- If you were planning on learning python and data science on your own this repo is for you! It's intended to point you to an ordered, series of progressively more challenging curricula. After you complete a section, you'll see marked improvement and have the skills needed to solve progressively more challenging data and statistics problems.   It's not intended to be your only resource; you will need to supplement  your learning where you feel your skills are under developed.   
+ If you were planning on learning python and data science on your own this repo is for you! It's intended to point you to an ordered series of progressively more challenging curricula. After you complete a section, you'll see marked improvement and have the skills needed to solve progressively more challenging data and statistics problems.   It's not intended to be your only resource; you will need to supplement  your learning where you feel your skills are underdeveloped.   
 
   It's not intended to host course material; instead consider this repo like a "news feed" that aggregates learning streams from around the web. That will allow you to start here and branch out. For example, sites like Coursera have great courses on machine learning fundamentals and stats for  psychology and Khan Academy has better courses on basic probability but neither give you great reading material or larger assignments that you can really dig into. You'll find links to all of those sources here peppered with "reach" assignments for added challenge and my own study sheets for interview prep
 
@@ -82,3 +89,5 @@ I2Nzk3MDcsLTE4MTI4NzgyNjYsLTIwMzEyOTc5NDAsLTIyOTM0
 OTIwOCwtMTc1MzIwOTk0MywxOTc0Njk4NzA3LC0xNjkwNzk4Nz
 EzLC0xODE3MzYyMzY1LC00MDgwNDI1NTldfQ==
 -->
+
+> Written with [StackEdit](https://stackedit.io/).
