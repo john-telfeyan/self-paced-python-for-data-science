@@ -18,7 +18,8 @@
 
 
 ### 2. Watch
-
+[Introduction to Relational Data Model - YouTube](https://www.youtube.com/watch?v=Q45sr5p_NmQ)
+[Introduction to Data Modeling for Power BI Video Course - SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
 
 ### 3. Try
 
@@ -34,5 +35,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMjI3MzgwNywtMTk2MjY5MjEzNF19
+eyJoaXN0b3J5IjpbMTU0Mjg0NjMyMCwtNzAyMjczODA3LC0xOT
+YyNjkyMTM0XX0=
 -->
