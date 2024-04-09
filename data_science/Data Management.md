@@ -19,22 +19,28 @@
 
 ### 2. Watch
 [Introduction to Relational Data Model - YouTube](https://www.youtube.com/watch?v=Q45sr5p_NmQ)
+[Introduction to Relational Databases (RDBMS) | Coursera](https://www.coursera.org/learn/introduction-to-relational-databases)
 [Introduction to Data Modeling for Power BI Video Course - SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
 
 ### 3. Try
 
- - [Database Schema Design: A Comprehensive Guide for Beginners
+ [Database Schema Design: A Comprehensive Guide for Beginners
    (dbvis.com)](https://www.dbvis.com/thetable/database-schema-design-a-comprehensive-guide-for-beginners-2/)
- - [Creating a table and inserting data | SQL basics | Intro to SQL:
+ [Creating a table and inserting data | SQL basics | Intro to SQL:
    Querying and managing data | Computer programming - JavaScript and
    the web | Computing | Khan
    Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pt/creating-a-table-and-inserting-data)
-   
-	 - [Challenge: Book list database | SQL basics | Intro to SQL: Querying and managing data | Computer programming - JavaScript and the web | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-book-list-database)
-	 - [Project: Design a store database | SQL basics | Intro to SQL: Querying and managing data | Computer programming - JavaScript and the web | Computing | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pp/project-design-a-store-database)
+ - [Challenge: Book list database | SQL basics | Intro to SQL: Querying
+   and managing data | Computer programming - JavaScript and the web |
+   Computing | Khan
+   Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pc/challenge-book-list-database)
+ -   [Project: Design a store database | SQL basics | Intro to SQL:
+   Querying and managing data | Computer programming - JavaScript and
+   the web | Computing | Khan
+   Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/pp/project-design-a-store-database)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Mjg0NjMyMCwtNzAyMjczODA3LC0xOT
-YyNjkyMTM0XX0=
+eyJoaXN0b3J5IjpbMTAzMDk4ODE4NSwxNTQyODQ2MzIwLC03MD
+IyNzM4MDcsLTE5NjI2OTIxMzRdfQ==
 -->
