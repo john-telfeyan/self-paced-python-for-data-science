@@ -13,6 +13,7 @@
  - [Understand Database Schema With This Definitive Guide - Full
    Scale](https://fullscale.io/blog/understanding-database-schema/)
   - [Seven essential database schema best practices | Blog | Fivetran](https://www.fivetran.com/blog/database-schema-best-practices)
+  - [Beginner's Guide to Entity-Relationship (ER) Diagrams - Visual Paradigm Blog (visual-paradigm.com)](https://blog.visual-paradigm.com/beginners-guide-to-entity-relationship-er-diagrams/)
   - 
 
 
@@ -33,5 +34,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MzA3OTY5MCwtMTk2MjY5MjEzNF19
+eyJoaXN0b3J5IjpbLTcwMjI3MzgwNywtMTk2MjY5MjEzNF19
 -->
