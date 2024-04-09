@@ -6,6 +6,7 @@
  - 
 
 ### 1. Read
+[Chapter 2 Fundamental Concepts – Database Design – 2nd Edition (opentextbc.ca)](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/)
 
 
 ### 2. Watch
@@ -25,5 +26,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNDQ3MjEyOCwtMTk2MjY5MjEzNF19
+eyJoaXN0b3J5IjpbLTg0NTg0ODgxMSwtMTk2MjY5MjEzNF19
 -->
