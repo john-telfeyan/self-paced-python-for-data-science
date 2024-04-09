@@ -6,9 +6,15 @@
  - 
 
 ### 1. Read
-[Chapter 2 Fundamental Concepts – Database Design – 2nd Edition (opentextbc.ca)](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/)
 
-[Understand Database Schema With This Definitive Guide - Full Scale](https://fullscale.io/blog/understanding-database-schema/)
+ - [Chapter 2 Fundamental Concepts – Database Design – 2nd Edition 
+   (opentextbc.ca)](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/)
+ 
+ - [Understand Database Schema With This Definitive Guide - Full
+   Scale](https://fullscale.io/blog/understanding-database-schema/)
+   [Seven essential database schema best practices | Blog | Fivetran]
+
+(https://www.fivetran.com/blog/database-schema-best-practices)
 
 
 ### 2. Watch
@@ -28,5 +34,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMDI5MjgyLC0xOTYyNjkyMTM0XX0=
+eyJoaXN0b3J5IjpbLTE5Njg1NjMwNjYsLTE5NjI2OTIxMzRdfQ
+==
 -->
