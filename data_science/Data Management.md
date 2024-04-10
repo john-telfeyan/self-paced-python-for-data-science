@@ -21,7 +21,8 @@
 [Introduction to Relational Data Model - YouTube](https://www.youtube.com/watch?v=Q45sr5p_NmQ)
 [Introduction to Relational Databases (RDBMS) | Coursera](https://www.coursera.org/learn/introduction-to-relational-databases)
 [Introduction to Data Modeling for Power BI Video Course - SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
-[Database Schema (youtube.com)](https://www.youtube.com/watch?v=ymb9gsl_x1U)
+[Database Schema - Database Systems Series](https://www.youtube.com/watch?v=ymb9gsl_x1U&list=PL5KkMZvBpo5BBLJdnhvFFbjkiK3JLBfeD)
+
 
 ### 3. Try
 
@@ -42,6 +43,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ1ODI3NzUsMTAzMDk4ODE4NSwxNT
-QyODQ2MzIwLC03MDIyNzM4MDcsLTE5NjI2OTIxMzRdfQ==
+eyJoaXN0b3J5IjpbOTMxMDE2MzUxLDEwMzA5ODgxODUsMTU0Mj
+g0NjMyMCwtNzAyMjczODA3LC0xOTYyNjkyMTM0XX0=
 -->
