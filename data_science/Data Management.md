@@ -13,7 +13,7 @@
    Scale](https://fullscale.io/blog/understanding-database-schema/)
   - [Seven essential database schema best practices | Blog | Fivetran](https://www.fivetran.com/blog/database-schema-best-practices)
   - [Beginner's Guide to Entity-Relationship (ER) Diagrams - Visual Paradigm Blog (visual-paradigm.com)](https://blog.visual-paradigm.com/beginners-guide-to-entity-relationship-er-diagrams/)
- 
+ - [A Brief History of Tech Stacks - For Data Science & Dev Environments.docx](https://artlinconsultingllc-my.sharepoint.com/:w:/r/personal/jatelfeyan_aeyon_us/Documents/Projects/Data%20+%20Dev%20Env/A%20Brief%20History%20of%20Tech%20Stacks%20-%20For%20Data%20Science%20%26%20Dev%20Environments.docx?d=w48735e2f0a094694afa388ad7f7a2598&csf=1&web=1&e=e5DLN0)
 
 
 ### 2. Watch
@@ -44,7 +44,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTQ5MTM3MSwyMTAzNTAzMzQ5LDkzMT
-AxNjM1MSwxMDMwOTg4MTg1LDE1NDI4NDYzMjAsLTcwMjI3Mzgw
-NywtMTk2MjY5MjEzNF19
+eyJoaXN0b3J5IjpbMTAxNTkxMjAxMCwyMTE5NDkxMzcxLDIxMD
+M1MDMzNDksOTMxMDE2MzUxLDEwMzA5ODgxODUsMTU0Mjg0NjMy
+MCwtNzAyMjczODA3LC0xOTYyNjkyMTM0XX0=
 -->
