@@ -16,13 +16,24 @@
 
 
 ### 2. Watch
-[Introduction to Relational Data Model - YouTube](https://www.youtube.com/watch?v=Q45sr5p_NmQ)  
-[Introduction to Relational Databases (RDBMS) | Coursera](https://www.coursera.org/learn/introduction-to-relational-databases)  
-[Introduction to Data Modeling for Power BI Video Course - SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
-[Database Schema - Database Systems Series](https://www.youtube.com/watch?v=ymb9gsl_x1U&list=PL5KkMZvBpo5BBLJdnhvFFbjkiK3JLBfeD)  
-[Data modeling best practices - Part 1 - in Power BI and Analysis Series (youtube.com)](https://www.youtube.com/watch?v=kiVXI7zjSzY&list=PLv2BtOtLblH3Zz07fWYWit-nAV6et0LSX&index=3)  
-[SQL Tutorial - What is schema? What is the difference between Schema and Database? | SQL Tutorial Beginner to Pro Series (youtube.com)](https://www.youtube.com/watch?v=4YEpRz-oxZ0&list=PLLwn35Z4OR_3Pn6bk_Qc1C2AZWeGE5NMT&index=5)  
-[Data Modeling in the Modern Data Stack (youtube.com)](https://www.youtube.com/watch?v=IdCmMkQLvGA&list=PLy4OcwImJzBLWhUqduwLs30YHiDpX4Xp7&index=2)
+
+ - [Introduction to Relational Data Model -
+   YouTube](https://www.youtube.com/watch?v=Q45sr5p_NmQ) 
+  -  [Introduction
+   to Relational Databases (RDBMS) |
+  Coursera](https://www.coursera.org/learn/introduction-to-relational-databases)
+ -  [Introduction to Data Modeling for Power BI Video Course -
+   SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
+ -  [Database Schema - Database Systems
+   Series](https://www.youtube.com/watch?v=ymb9gsl_x1U&list=PL5KkMZvBpo5BBLJdnhvFFbjkiK3JLBfeD)
+ -  [Data modeling best practices - Part 1 - in Power BI and Analysis
+   Series
+   (youtube.com)](https://www.youtube.com/watch?v=kiVXI7zjSzY&list=PLv2BtOtLblH3Zz07fWYWit-nAV6et0LSX&index=3)
+ -  [SQL Tutorial - What is schema? What is the difference between Schema
+   and Database? | SQL Tutorial Beginner to Pro Series
+   (youtube.com)](https://www.youtube.com/watch?v=4YEpRz-oxZ0&list=PLLwn35Z4OR_3Pn6bk_Qc1C2AZWeGE5NMT&index=5)
+ -  [Data Modeling in the Modern Data Stack
+   (youtube.com)](https://www.youtube.com/watch?v=IdCmMkQLvGA&list=PLy4OcwImJzBLWhUqduwLs30YHiDpX4Xp7&index=2)
 
 ### 3. Try
 
@@ -43,8 +54,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MTcwOTUzLC05MDM5ODY0NywxMDE1OT
-EyMDEwLDIxMTk0OTEzNzEsMjEwMzUwMzM0OSw5MzEwMTYzNTEs
-MTAzMDk4ODE4NSwxNTQyODQ2MzIwLC03MDIyNzM4MDcsLTE5Nj
-I2OTIxMzRdfQ==
+eyJoaXN0b3J5IjpbNzU5ODc4MzI2LDk1NzE3MDk1MywtOTAzOT
+g2NDcsMTAxNTkxMjAxMCwyMTE5NDkxMzcxLDIxMDM1MDMzNDks
+OTMxMDE2MzUxLDEwMzA5ODgxODUsMTU0Mjg0NjMyMCwtNzAyMj
+czODA3LC0xOTYyNjkyMTM0XX0=
 -->
