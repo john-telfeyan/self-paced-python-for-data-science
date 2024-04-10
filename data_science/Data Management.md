@@ -3,7 +3,6 @@
 ### 0. Introduction
 
  - [Welcome to SQL (video) | SQL basics | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
- - 
 
 ### 1. Read
 
@@ -14,7 +13,7 @@
    Scale](https://fullscale.io/blog/understanding-database-schema/)
   - [Seven essential database schema best practices | Blog | Fivetran](https://www.fivetran.com/blog/database-schema-best-practices)
   - [Beginner's Guide to Entity-Relationship (ER) Diagrams - Visual Paradigm Blog (visual-paradigm.com)](https://blog.visual-paradigm.com/beginners-guide-to-entity-relationship-er-diagrams/)
-  - 
+ 
 
 
 ### 2. Watch
@@ -45,7 +44,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUzNzU3NjEsMjEwMzUwMzM0OSw5MzEwMT
-YzNTEsMTAzMDk4ODE4NSwxNTQyODQ2MzIwLC03MDIyNzM4MDcs
-LTE5NjI2OTIxMzRdfQ==
+eyJoaXN0b3J5IjpbMjExOTQ5MTM3MSwyMTAzNTAzMzQ5LDkzMT
+AxNjM1MSwxMDMwOTg4MTg1LDE1NDI4NDYzMjAsLTcwMjI3Mzgw
+NywtMTk2MjY5MjEzNF19
 -->
