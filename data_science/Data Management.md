@@ -22,6 +22,7 @@
 [Introduction to Relational Databases (RDBMS) | Coursera](https://www.coursera.org/learn/introduction-to-relational-databases)
 [Introduction to Data Modeling for Power BI Video Course - SQLBI](https://www.sqlbi.com/p/introduction-to-data-modeling-for-power-bi-video-course/)
 [Database Schema - Database Systems Series](https://www.youtube.com/watch?v=ymb9gsl_x1U&list=PL5KkMZvBpo5BBLJdnhvFFbjkiK3JLBfeD)
+[Data modeling best practices - Part 1 - in Power BI and Analysis Series (youtube.com)](https://www.youtube.com/watch?v=kiVXI7zjSzY&list=PLv2BtOtLblH3Zz07fWYWit-nAV6et0LSX&index=3)
 
 
 ### 3. Try
@@ -43,6 +44,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMxMDE2MzUxLDEwMzA5ODgxODUsMTU0Mj
-g0NjMyMCwtNzAyMjczODA3LC0xOTYyNjkyMTM0XX0=
+eyJoaXN0b3J5IjpbMjEwMzUwMzM0OSw5MzEwMTYzNTEsMTAzMD
+k4ODE4NSwxNTQyODQ2MzIwLC03MDIyNzM4MDcsLTE5NjI2OTIx
+MzRdfQ==
 -->
