@@ -6,13 +6,13 @@
 
 ### 1. Read
 
- [Chapter 2 Fundamental Concepts – Database Design – 2nd Edition 
+- [Chapter 2 Fundamental Concepts – Database Design – 2nd Edition 
    (opentextbc.ca)](https://opentextbc.ca/dbdesign01/chapter/chapter-2-fundamental-concepts/)
- [Tables, Schemas, Columns, and Keys - A Practical Guide to SQL and Database Fundamentals (educative.io)](https://www.educative.io/courses/a-practical-guide-to-sql-and-database-fundamentals/tables-schemas-columns-and-keys)
-[Understand Database Schema With This Definitive Guide - Full
+- [Tables, Schemas, Columns, and Keys - A Practical Guide to SQL and Database Fundamentals (educative.io)](https://www.educative.io/courses/a-practical-guide-to-sql-and-database-fundamentals/tables-schemas-columns-and-keys)
+- [Understand Database Schema With This Definitive Guide - Full
    Scale](https://fullscale.io/blog/understanding-database-schema/)
- [Seven essential database schema best practices | Blog | Fivetran](https://www.fivetran.com/blog/database-schema-best-practices)
- [Beginner's Guide to Entity-Relationship (ER) Diagrams - Visual Paradigm Blog (visual-paradigm.com)](https://blog.visual-paradigm.com/beginners-guide-to-entity-relationship-er-diagrams/)
+- [Seven essential database schema best practices | Blog | Fivetran](https://www.fivetran.com/blog/database-schema-best-practices)
+- [Beginner's Guide to Entity-Relationship (ER) Diagrams - Visual Paradigm Blog (visual-paradigm.com)](https://blog.visual-paradigm.com/beginners-guide-to-entity-relationship-er-diagrams/)
 
 
 ### 2. Watch
@@ -54,8 +54,8 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5ODc4MzI2LDk1NzE3MDk1MywtOTAzOT
-g2NDcsMTAxNTkxMjAxMCwyMTE5NDkxMzcxLDIxMDM1MDMzNDks
-OTMxMDE2MzUxLDEwMzA5ODgxODUsMTU0Mjg0NjMyMCwtNzAyMj
-czODA3LC0xOTYyNjkyMTM0XX0=
+eyJoaXN0b3J5IjpbMTYwMDgwMzQwNyw5NTcxNzA5NTMsLTkwMz
+k4NjQ3LDEwMTU5MTIwMTAsMjExOTQ5MTM3MSwyMTAzNTAzMzQ5
+LDkzMTAxNjM1MSwxMDMwOTg4MTg1LDE1NDI4NDYzMjAsLTcwMj
+I3MzgwNywtMTk2MjY5MjEzNF19
 -->
