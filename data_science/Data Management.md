@@ -2,7 +2,7 @@
 
 ### 0. Introduction
 
- - [Welcome to SQL (video) | SQL basics | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
+ [Welcome to SQL (video) | SQL basics | Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql)
 
 ### 1. Read
 
@@ -43,8 +43,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjQ4MDU0OCwxMDE1OTEyMDEwLDIxMT
-k0OTEzNzEsMjEwMzUwMzM0OSw5MzEwMTYzNTEsMTAzMDk4ODE4
-NSwxNTQyODQ2MzIwLC03MDIyNzM4MDcsLTE5NjI2OTIxMzRdfQ
-==
+eyJoaXN0b3J5IjpbLTkwMzk4NjQ3LDEwMTU5MTIwMTAsMjExOT
+Q5MTM3MSwyMTAzNTAzMzQ5LDkzMTAxNjM1MSwxMDMwOTg4MTg1
+LDE1NDI4NDYzMjAsLTcwMjI3MzgwNywtMTk2MjY5MjEzNF19
 -->
